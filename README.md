@@ -78,4 +78,4 @@ Bu çalışma yalnızca ders kapsamında, yerel ve gönüllü örneklerle yapıl
 
 ## Öğrenci
 
-Ad Soyad - Öğrenci No
+Cuma Doğan  250542003
